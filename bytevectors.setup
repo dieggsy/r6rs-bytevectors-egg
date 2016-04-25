@@ -1,0 +1,12 @@
+;; -*- scheme -*-
+
+(compile -s -O3 -J
+         -X r7rs -R r7rs
+         -o r6rs.bytevectors.so
+         bytevectors.sld)
+
+(compile -s -O3 r6rs.bytevectors.import.scm)
+
+(install-extension 'r6rs.bytevectors
+  '("r6rs.bytevectors.so" "r6rs.bytevectors.import.so")
+  '((version "1.0")))

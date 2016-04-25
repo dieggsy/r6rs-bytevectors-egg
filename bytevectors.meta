@@ -1,0 +1,3 @@
+;; -*- scheme -*-
+
+((depends r7rs))
