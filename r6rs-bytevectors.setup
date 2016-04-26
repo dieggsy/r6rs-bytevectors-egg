@@ -7,6 +7,6 @@
 
 (compile -s -O3 r6rs.bytevectors.import.scm)
 
-(install-extension 'r6rs.bytevectors
+(install-extension 'r6rs-bytevectors
   '("r6rs.bytevectors.so" "r6rs.bytevectors.import.so")
-  '((version "1.0.0")))
+  '((version "1.0.1")))
