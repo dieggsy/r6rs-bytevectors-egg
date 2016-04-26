@@ -1,0 +1,4 @@
+;; -*- scheme -*-
+
+(repo git "git://github.com/retroj/r6rs-bytevectors.git")
+(uri targz "https://github.com/retroj/r6rs-bytevectors/tarball/{egg-release}")

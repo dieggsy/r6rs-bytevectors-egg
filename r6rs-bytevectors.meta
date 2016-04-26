@@ -1,6 +1,7 @@
 ;; -*- scheme -*-
 
 ((author "William D Clinger")
+ (maintainer "John J. Foerch")
  (synopsis "R7RS implementation of R6RS Bytevectors")
  (license "Larceny")
  (category data)

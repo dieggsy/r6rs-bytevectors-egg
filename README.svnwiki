@@ -7,6 +7,11 @@
 
 An R7RS implementation of R6RS Bytevectors, from Larceny Scheme.
 
+* [[https://github.com/retroj/r6rs-bytevectors-egg|CHICKEN Egg]]
+* [[https://github.com/larcenists/larceny|Larceny Scheme]]
+* [[https://github.com/larcenists/larceny/tree/master/tools/R6RS/r6rs|Upstream R6RS Bytevectors implementation]]
+* [[http://www.r6rs.org/final/html/r6rs-lib/r6rs-lib-Z-H-3.html|R6RS Bytevectors Documentation]]
+
 == Authors
 
 * William D Clinger
@@ -15,16 +20,6 @@ An R7RS implementation of R6RS Bytevectors, from Larceny Scheme.
 == Requirements
 
 * [[r7rs]]
-
-== API
-
-Larceny can be found here: https://github.com/larcenists/larceny
-
-Larceny's R6RS bytevectors upstream is here:
-https://github.com/larcenists/larceny/tree/master/tools/R6RS/r6rs
-
-R6RS Bytevectors is described here:
-http://www.r6rs.org/final/html/r6rs-lib/r6rs-lib-Z-H-3.html
 
 == License
 
