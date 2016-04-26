@@ -1,3 +1,7 @@
 ;; -*- scheme -*-
 
-((depends r7rs))
+((author "William D Clinger")
+ (synopsis "R7RS implementation of R6RS Bytevectors")
+ (license "Larceny")
+ (category data)
+ (depends r7rs))
