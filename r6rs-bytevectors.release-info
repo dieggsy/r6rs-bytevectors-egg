@@ -1,6 +1,6 @@
 ;; -*- scheme -*-
 
-(repo git "git://github.com/retroj/r6rs-bytevectors.git")
-(uri targz "https://github.com/retroj/r6rs-bytevectors/tarball/{egg-release}")
+(repo git "git://github.com/retroj/r6rs-bytevectors-egg.git")
+(uri targz "https://github.com/retroj/r6rs-bytevectors-egg/tarball/{egg-release}")
 (release "1.0.0")
 (release "1.0.1")
