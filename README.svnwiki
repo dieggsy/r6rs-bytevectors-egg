@@ -7,6 +7,10 @@
 
 An R7RS implementation of R6RS Bytevectors, from Larceny Scheme.
 
+<enscript>
+(use r6rs.bytevectors)
+</enscript>
+
 * [[https://github.com/retroj/r6rs-bytevectors-egg|CHICKEN Egg]]
 * [[https://github.com/larcenists/larceny|Larceny Scheme]]
 * [[https://github.com/larcenists/larceny/tree/master/tools/R6RS/r6rs|Upstream R6RS Bytevectors implementation]]
