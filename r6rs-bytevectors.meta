@@ -5,4 +5,4 @@
  (synopsis "R7RS implementation of R6RS Bytevectors")
  (license "Larceny")
  (category data)
- (depends r7rs))
+ (depends (r7rs "0.0.5")))
