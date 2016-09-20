@@ -78,3 +78,4 @@ r6rs bytevectors itself.
 
 * 1.0.0 (2016-04-26) initial release
 * 1.0.1 (2016-04-26) extension name correction
+* 1.0.2 (2016-09-19) need r7rs 0.0.5 (fix bug related to bytevector-copy!)
