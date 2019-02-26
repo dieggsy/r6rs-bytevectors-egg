@@ -1,0 +1,12 @@
+((author "William D Clinger")
+ (maintainer "John J. Foerch")
+ (synopsis "R7RS implementation of R6RS Bytevectors")
+ (license "Larceny")
+ (category data)
+ (dependencies r7rs)
+ (component-options
+  (csc-options "-O3" "-X" "r7rs"
+               "-R" "r7rs"))
+ (components
+  (extension r6rs.bytevectors
+             (source "bytevectors.sld"))))
